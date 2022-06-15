@@ -1,0 +1,50 @@
+{
+    "name": "ダ ニ ⁪⁬⁮⁮「тιятнα✌」💜",
+    "description": "A SIMPLE TELEGRAM VOICECHAT MUSIC BOT.MADE WITH 💜 BY ©XNKIT™",
+    "logo": "https://te.legra.ph/file/a50e60f059d7a2d958c4d.jpg",
+    "keywords": [
+        "Telegram",
+        "MusicPlayer",
+        "VideoPlayer"
+    ],
+    "repository": "https://github.com/XnKiT/TiRtHa",
+    "env": {
+        "SESSION": {
+            "description": "Pyrogram String Session",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Enter APP ID Please Download from my.telegram.org/apps",
+            "required": true
+        },
+        "HNDLR": {
+            "description": "This will be used as a prefix in all commands ",
+            "required": true,
+            "value": "/"
+        },
+        "API_HASH": {
+            "description": "Input HASH API Please Download from my.telegram.org/apps",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "User ID list user counts as admin everywhere (separator using space)",
+            "required": true
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "container"
+}
