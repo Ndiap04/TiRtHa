@@ -1,6 +1,6 @@
 <h2 align="center"> <a href="https://github.com/xNKIT/TIRTHA">ダ ニ ⁪⁬⁮⁮「тιятнα✌」💜</a></h2>
 
-[![TIRTHA LOGO](https://te.legra.ph/file/10dba11a9397109e75e91.jpg)](https://github.com/xNKIT/LISA)
+[![TIRTHA LOGO](https://te.legra.ph/file/a50e60f059d7a2d958c4d.jpg)](https://github.com/xNKIT/LISA)
 
 [![fork's](https://img.shields.io/github/forks/xNKIT/TIRTHA?label=Forks&logoColor=Black&style=social)](https://github.com/xNKIT)
 [![Star's](https://img.shields.io/github/stars/xNKIT/TIRTHA?logoColor=Blue&style=social)](https://github.com/xNKIT)
