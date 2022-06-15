@@ -13,6 +13,3 @@ yt-dlp
 python-dotenv
 gTTS
 googletrans==4.0.0rc1
-© 2022 GitHub, Inc.
-Terms
-Privac
